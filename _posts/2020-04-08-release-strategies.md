@@ -31,10 +31,10 @@ The benefits of this approach are clear: by maintaining a record of when and how
 Below, I summarize the three release strategies discussed:
 
 |  	| Def 	| Pros 	| Cons | 
-|---------------------	|--------------------------------------------------------	|---------------------------------------------------------------	|-----------------------------------------------------------------	|----------	|
-| **Release all at once** 	| - Provide full-access to all code and model weights | - Open science 	| - Miss out on potential beneficial uses <br>- If folks try to reproduce, compound energy use of training 	| MuseNet 	|
-| **Staged release** 	| - Gradually release larger scale models 	| - See how real perceived risks are before making final decision 	|  	| GPT-2 	|
-| **API model** 	| - Provide protected access to forward-pass 	| - Retain full control over use 	| - Limits who has access to interrogate and utilize parts of model 	|  	|
+|---------------------	|--------------------------------------------------------	|---------------------------------------------------------------	|-----------------------------------------------------------------	|
+| **Release all at once** 	| - Provide full-access to all code and model weights | - Open science 	| - Miss out on potential beneficial uses <br>- If folks try to reproduce, compound energy use of training 	|
+| **Staged release** 	| - Gradually release larger scale models 	| - See how real perceived risks are before making final decision 	|  	|
+| **API model** 	| - Provide protected access to forward-pass 	| - Retain full control over use 	| - Limits who has access to interrogate and utilize parts of model 	|
 
 ### Is release strategy even the right mechanism to use?
 
