@@ -1,6 +1,6 @@
 ---
 title: 'Release Strategies and Language Models'
-date: 2030-04-08
+date: 2030-04-09
 permalink: /posts/2030/04/release-strategies/
 tags:
 - openai
@@ -12,7 +12,7 @@ In February 2019, OpenAI released the language model [GPT-2]([https://openai.com
 
 As much as language models have the potential for beneficial use, they can potentially also be used by adversarial actors for example in [generating fake content](http://google.com) or [impersonating different kinds of speech](http://google.com). 
 
-Moreover, as many language models operate as "black boxes," it can be difficult to know exactly how a model will behave under all circumstances, so there are plenty of risks associated with deploying it to different applications before it has been robustly tested on a diverse set of tasks. For example, Microsoft released nazi chatbot. 
+Moreover, as many language models operate as "black boxes," it can be difficult to know exactly how a model will behave under all circumstances, so there are plenty of risks associated with deploying it to different applications before it has been robustly tested on a diverse set of tasks. For example, within 24 hours of Microsoft releasing the chatbot "Tay" on Twitter, the bot devolved into [responding to users with misogynistic and racist language](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist). 
 
 Carefully thinking about how to release a model is one lever we can use to gradually understand and evaluate the risks of that model in the world.
 
@@ -44,10 +44,10 @@ If we rely solely on the release stage, it may be too late to ensure a model is 
 
 A recent paper by [Madaio, et. al (2020)](http://www.jennwv.com/papers/checklists.pdf) puts forward a "checklist" approach for developers to use to benchmark their progress against fairness objectives. The checklist is inspired by the process surgeons go through before, during, and after surgeries and is co-designed with ML practitioners to align with their existing workflows. Fairness is hard, and the fuzzy nature of ethics principles don't always mesh with developers' quantitative approach. By using open-ended questions and engaging practitioners at every step of their design and implementation process, this approach bridges some of the gap between development and end-user stakeholders. 
 
-There certainly are other checklist approaches, one that springs to mind is DCMS's "Data Ethics Framework" but these don't ___ and don't ___. 
+There certainly are other checklist approaches -- one that springs to mind is the UK Department of Digital Culture, Media, and Sport's [Data Ethics Workbook](https://www.gov.uk/government/publications/data-ethics-workbook) -- but those developed by public-sector organizations often fail to match how machine learning models are actually designed and deployed. For example, the Data Ethics Workbook applies narrowly to what we might call "data science" -- collecting and analyzing data -- and fails to address the particular subtleties of deep learning.
 
-There are also efforts to develop quantitative toolkits developers can deploy, however these are often targeted at the end-product (falling into the "potentially too-late" category) and may not be able to measure all of the nuanced fairness that we want.
+There are also efforts to develop quantitative toolkits developers can deploy, however these are often targeted at the end-product (falling into the "potentially too-late" category) and may not be able to measure all of the nuanced fairness that we want. Moreover, most toolkits aren't capable of capturing every nuanced dimension of fairness, toolkits like [AI Fairness 360](http://aif360.mybluemix.net/) provide lenses to think about racial, gender, and age disparities, but fail to measure [other protected classes](https://www.un.org/ruleoflaw/thematic-areas/human-rights/equality-and-non-discrimination/).
 
 ### How do we mandate this?
 
-Regardless of how we choose to develop and release a model. We should understand what regulatory frameworks exist to [7, 35, 49, 56, 73]
+Regardless of how we choose to develop and release a model, we should understand what regulatory frameworks govern its design and release. As private-sector organizations design processes for meeting these regulations we should incentivize them sharing these systems and practices publicly.
