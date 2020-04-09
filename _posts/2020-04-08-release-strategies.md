@@ -1,6 +1,6 @@
 ---
 title: 'Release Strategies and Language Models'
-date: 2030-04-09
+date: 2030-04-08
 permalink: /posts/2030/04/release-strategies/
 tags:
 - openai
