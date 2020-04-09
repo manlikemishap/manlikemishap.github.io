@@ -26,7 +26,6 @@ On the flip side, there are many strong cases to be made for the open source app
 
 There are a ton of efforts underway to mobilize AI expertise in service of tackling coronavirus. In the near-term though, I think that, [like during the Ebola epidemic](https://www.wired.com/insights/2014/10/ebola-process-not-technology/), AI innovation will be too slow to really be useful. 
 
-
 ### Civic tech is infrastructure
 
 Plenty of cities have launched small-scale engineering efforts to build out public services for a long time, often as volunteering efforts, sometimes as government contracts. Engineers developing civic technology rarely fit the hacker stereotype of working in solitary, but rather they develop in collaboration with institutions and code in public spaces. The technology they create tends to be hyper-local and hyper-contextual, pieced together from open-source libraries and historical, cultural, and spatial geographies in their cities. As we look to our own communities for things like manufacturing medical supplies and providing home deliveries, we'll need to rely on local aid groups and local technology. 
