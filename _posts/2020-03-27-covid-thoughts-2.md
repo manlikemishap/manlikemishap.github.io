@@ -1,6 +1,6 @@
 ---
 title: 'COVID-19 and Manufacturing'
-date: 2030-03-25
+date: 2020-03-25
 permalink: /posts/2030/03/covid-19-manufacturing/
 tags:
 - coronavirus
