@@ -1,6 +1,6 @@
 ---
 title: 'Universal Adversarial Triggers'
-date: 2020-03-27
+date: 2020-03-20
 permalink: /posts/2020/03/universal-adversarial-triggers/
 tags:
   - openai
