@@ -4,7 +4,6 @@ date: 2020-03-27
 permalink: /posts/2020/03/european-commission-white-paper/
 tags:
   - openai
-  - policy
 ---
 
 A few weeks ago the European Commission released a [White Paper on Artificial Intelligence](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf) detailing what actions the EU may take in the next few years to regulate applications of AI and promote and incentivize new AI innovation. 
@@ -27,5 +26,3 @@ Overall, like many of these white papers, the report on AI is light on details o
 ### Interpretability
 * The commission argues that high-risks can be largely mitigated with enough human and machine oversight. For example, facial recognition technology is high risk, but at this point -- I’d argue -- the risks can only be fully mitigated by a total ban.
 * Evaluation is hard, and may be impossible. It seems premature to assess anything that proposes objective evaluation as a panacea without clearly defining those objective functions. I think there is a clear need to figure out what the objective function of any approach to assessing the impact of AI should be. 
-
-
