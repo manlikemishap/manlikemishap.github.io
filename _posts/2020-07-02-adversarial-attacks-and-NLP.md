@@ -1,6 +1,6 @@
 ---
 title: 'Adversarial Attacks and NLP'
-date: 2020-03-20
+date: 2020-07-02
 permalink: /posts/2020/03/universal-adversarial-triggers/
 tags:
   - openai
