@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Trash List"
 permalink: /trash/
 author_profile: true
 redirect_from:
