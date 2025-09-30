@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Have worn many hats, but can usually be found in a Red Sox cap.
+I study how language models reshape work and what that means for workers, firms, and the economy. My current collaborations span policymakers, labor organizations, AI researchers, economists, and—most importantly—workers themselves. 
 
-Currently: @OpenAI. I'm interested in how to make language models safe and fair, from a technical and policy perspective. I'm a born and bred New Yorker, now in SF, have unutilized and unexpired learner's permits on both coasts.
-
-Previously: Led product management at The Whistle, a small start-up building tech tools for international human rights groups. Before that, researched economic policy at the Federal Reserve Bank of New York and worked with the Department of Digital Culture, Media and Sport in the UK on online advertising policy. BA in Computer Science and Math from Williams College and an MPhil in Technology Policy from the University of Cambridge (Herchel-Smith Fellow).
-
-Other hats: Software @ Lumi Labs & Google, Research @ MIT Center for Civic Media & Berkman Center, Data @ Beacon Research & Digital Divide Data
+Previously, I’ve worked across product, research, and data roles at The Whistle, Lumi Labs, Google, MIT’s Center for Civic Media, the Berkman Center, Beacon Research, and Digital Divide Data.
